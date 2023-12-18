@@ -1,17 +1,17 @@
-const userRouter = require('./user')
-const productRouter = require('./product')
-const {notFound, errHandler} = require('../middlewares/errHandler')
-
+const userRouter = require('./user');
+const productRouter = require('./product');
+const productCategoryRouter = require('./productCategory');
+const blogCategoryRouter = require('./blogCategory');
+const { notFound, errHandler } = require('../middlewares/errHandler');
 
 const initRoutes = (app) => {
-    app.use('/api/user', userRouter)
-    app.use('/api/product', productRouter)
-    
+    app.use('/api/user', userRouter);
+    app.use('/api/product', productRouter);
+    app.use('/api/prod-cate', productCategoryRouter);
+    app.use('/api/blog-cate', blogCategoryRouter);
 
+    app.use(notFound);
+    app.use(errHandler);
+};
 
-    app.use(notFound)
-    app.use(errHandler)
-}
-
-
-module.exports = initRoutes
+module.exports = initRoutes;
