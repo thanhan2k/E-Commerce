@@ -34,14 +34,14 @@ const Header = ({ dispatch }) => {
         <div className="flex flex-col px-6 border-r items-center">
           <span className="flex gap-4 items-center">
             <RiPhoneFill color="#511BB9" />
-            <span className="font-semibold">(+1800) 000 8808</span>
+            <span className="font-semibold">1900 1999</span>
           </span>
           <span>Mon-Sat 9:00AM - 8:00PM</span>
         </div>
         <div className="flex flex-col items-center px-6 border-r">
           <span className="flex gap-4 items-center">
             <MdEmail color="#511BB9" />
-            <span className="font-semibold">SUPPORT@TADATHEMES.COM</span>
+            <span className="font-semibold">yasparis@gmail.com</span>
           </span>
           <span>Online Support 24/7</span>
         </div>
@@ -64,7 +64,7 @@ const Header = ({ dispatch }) => {
               {isShowOption && (
                 <div
                   onClick={(e) => e.stopPropagation()}
-                  className="absolute top-full flex-col flex left-[16px] bg-gray-100 border min-w-[150px] py-2"
+                  className="absolute top-full flex-col flex left-[16px] #00000 border min-w-[150px] py-2"
                 >
                   <Link
                     className="p-2 w-full hover:bg-sky-100"
