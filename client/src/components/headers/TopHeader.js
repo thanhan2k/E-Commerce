@@ -31,7 +31,7 @@ const TopHeaders = () => {
     }, [mes])
     return (
         <div className='h-[38px] w-full bg-main flex items-center justify-center'>
-            <div className='w-main flex items-center justify-between text-xs text-white'>
+            <div className='h-[60px] w-main flex items-center justify-between text-base text-white'>
                 <span>ORDER ONLINE OR CALL US (+1800) 000 8808</span>
                 {isLoggedIn && current
                     ? <div className=' flex gap-4 text-sm items-center'>
@@ -42,7 +42,7 @@ const TopHeaders = () => {
                             <AiOutlineLogout size={18} />
                         </span>
                     </div>
-                    : <Link className='hover:text-gray-800' to={`/${path.LOGIN}`}>Sign In or Create Account</Link>}
+                    : <Link className='hover:opacity-10' to={`/${path.LOGIN}`}>Sign In or Create Account</Link>}
             </div>
         </div>
     )
