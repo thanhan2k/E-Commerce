@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="w-main flex items-center justify-between">
           <div className="flex flex-col flex-1">
             <span className="text-[20px] text-gray-100">SIGN UP TO NEWSLETTER</span>
-            <small className="text-[13px] #f5dfff">
+            <small className="text-[13px] text-white">
               Subscribe now and receive weekly newsletter!
             </small>
           </div>
@@ -33,6 +33,7 @@ const Footer = () => {
             </h3>
             <span>
               <span>Address: </span>
+              <span className="opacity-70">474 Ontario St Toronto, ON M4X 1M7 HCM</span>
               <span className="opacity-70">Linh Trung, Thu Duc, TP.HCM</span>
             </span>
             <span>
@@ -66,7 +67,7 @@ const Footer = () => {
           </div>
           <div className="flex-1 flex flex-col gap-2">
             <h3 className="mb-[20px] text-[15px] font-medium border-l-2 border-main pl-[15px]">
-              #DIGITALWORLDSTORE
+              #YASPARISSTORE
             </h3>
           </div>
         </div>
