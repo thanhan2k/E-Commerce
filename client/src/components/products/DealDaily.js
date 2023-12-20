@@ -1,29 +1,27 @@
-import React, { useState, useEffect, memo } from "react"
-import icons from "ultils/icons"
-import { apiGetProducts } from "apis/product"
-import { renderStarFromNumber, formatMoney, secondsToHms } from "ultils/helpers"
-import { Countdown } from "components"
-import moment from "moment"
-import { useSelector } from "react-redux"
-import withBaseComponent from "hocs/withBaseComponent"
-import { getDealDaily } from "store/products/productSlice"
+import React, { useState, useEffect, memo } from "react";
+import icons from "ultils/icons";
+import { apiGetProducts } from "apis/product";
+import { renderStarFromNumber, formatMoney, secondsToHms } from "ultils/helpers";
+import { Countdown } from "components";
+import moment from "moment";
+import { useSelector } from "react-redux";
+import withBaseComponent from "hocs/withBaseComponent";
+import { getDealDaily } from "store/products/productSlice";
 
-const { AiFillStar, AiOutlineMenu } = icons
-let idInterval
+const { AiFillStar, AiOutlineMenu } = icons;
+let idInterval;
 const DealDaily = ({ dispatch }) => {
-  const [hour, setHour] = useState(0)
-  const [minute, setMinute] = useState(0)
-  const [second, setSecond] = useState(0)
-  const [expireTime, setExpireTime] = useState(false)
-  const { dealDaily } = useSelector((s) => s.products)
+  const [hour, setHour] = useState(0);
+  const [minute, setMinute] = useState(0);
+  const [second, setSecond] = useState(0);
+  const [expireTime, setExpireTime] = useState(false);
+  const { dealDaily } = useSelector((s) => s.products);
 
   const fetchDealDaily = async () => {
-    const response = await apiGetProducts({ sort: "-totalRatings", limit: 20 })
+    const response = await apiGetProducts({ sort: "-totalRatings", limit: 20 });
     if (response.success) {
-      const pr = response.products[Math.round(Math.random() * 20)]
-      dispatch(
-        getDealDaily({ data: pr, time: Date.now() + 24 * 60 * 60 * 1000 })
-      )
+      const pr = response.products[Math.round(Math.random() * 20)];
+      dispatch(getDealDaily({ data: pr, time: Date.now() + 24 * 60 * 60 * 1000 }));
 
       //   const today = `${moment().format("MM/DD/YYYY")} 7:00:00`
       //   const seconds =
@@ -37,54 +35,53 @@ const DealDaily = ({ dispatch }) => {
       //   setMinute(59)
       //   setSecond(59)
     }
-  }
+  };
   //   console.log(dealDaily)
   // useEffect(() => {
   //     fetchDealDaily()
   // }, [])
   useEffect(() => {
     if (dealDaily?.time) {
-      const deltaTime = dealDaily.time - Date.now()
-      const number = secondsToHms(deltaTime)
-      setHour(number.h)
-      setMinute(number.m)
-      setSecond(number.s)
+      const deltaTime = dealDaily.time - Date.now();
+      const number = secondsToHms(deltaTime);
+      setHour(number.h);
+      setMinute(number.m);
+      setSecond(number.s);
     }
-  }, [dealDaily])
+  }, [dealDaily]);
   useEffect(() => {
-    idInterval && clearInterval(idInterval)
-    if (moment(moment(dealDaily?.time).format("MM/DD/YYYY")).isBefore(moment()))
-      fetchDealDaily()
-  }, [expireTime])
+    idInterval && clearInterval(idInterval);
+    if (moment(moment(dealDaily?.time).format("MM/DD/YYYY")).isBefore(moment())) fetchDealDaily();
+  }, [expireTime]);
   useEffect(() => {
     idInterval = setInterval(() => {
-      if (second > 0) setSecond((prev) => prev - 1)
+      if (second > 0) setSecond((prev) => prev - 1);
       else {
         if (minute > 0) {
-          setMinute((prev) => prev - 1)
-          setSecond(59)
+          setMinute((prev) => prev - 1);
+          setSecond(59);
         } else {
           if (hour > 0) {
-            setHour((prev) => prev - 1)
-            setMinute(59)
-            setSecond(59)
+            setHour((prev) => prev - 1);
+            setMinute(59);
+            setSecond(59);
           } else {
-            setExpireTime(!expireTime)
+            setExpireTime(!expireTime);
           }
         }
       }
-    }, 1000)
+    }, 1000);
     return () => {
-      clearInterval(idInterval)
-    }
-  }, [second, minute, hour, expireTime])
+      clearInterval(idInterval);
+    };
+  }, [second, minute, hour, expireTime]);
   return (
     <div className="border w-full flex-auto">
       <div className="flex items-center justify-between p-4 w-full">
         <span className="flex-1 flex justify-center">
-          <AiFillStar size={20} color="#DD1111" />
+          <AiFillStar size={20} color="#811BC8" />
         </span>
-        <span className="flex-8 font-semibold text-[20px] flex justify-center text-gray-700">
+        <span className="flex-8 font-semibold text-[20px] flex justify-center color:#811BC8">
           DEAL DAILY
         </span>
         <span className="flex-1"></span>
@@ -98,15 +95,11 @@ const DealDaily = ({ dispatch }) => {
           alt=""
           className="w-full object-contain"
         />
-        <span className="line-clamp-1 text-center">
-          {dealDaily?.data?.title}
-        </span>
+        <span className="line-clamp-1 text-center">{dealDaily?.data?.title}</span>
         <span className="flex h-4">
-          {renderStarFromNumber(dealDaily?.data?.totalRatings, 20)?.map(
-            (el, index) => (
-              <span key={index}>{el}</span>
-            )
-          )}
+          {renderStarFromNumber(dealDaily?.data?.totalRatings, 20)?.map((el, index) => (
+            <span key={index}>{el}</span>
+          ))}
         </span>
         <span>{`${formatMoney(dealDaily?.data?.price)} VNĐ`}</span>
       </div>
@@ -125,7 +118,7 @@ const DealDaily = ({ dispatch }) => {
         </button>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default withBaseComponent(memo(DealDaily))
+export default withBaseComponent(memo(DealDaily));
