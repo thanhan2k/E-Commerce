@@ -28,7 +28,7 @@ module.exports = {
       },
       backgroundColor: {
         main: "#511BB9",
-        overlay: "#E5DDF5",
+        overlay: "rgba(0,0,0,0.7)",
       },
       colors: {
         main: "#511BB9",
