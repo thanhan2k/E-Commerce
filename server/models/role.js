@@ -1,24 +1,19 @@
 const mongoose = require('mongoose'); // Erase if already required
 
 // Declare the Schema of the Mongo model
-var productCategorySchema = new mongoose.Schema({
-    title: {
+var roleSchema = new mongoose.Schema({
+    code: {
         type: String,
         required: true,
         unique: true,
         index: true,
     },
-    brand: {
-        type: Array,
-        required: true,
-    },
-    image: {
+    value: {
         type: String,
         required: true,
-    }
-}, {
-    timestamps: true
+        unique: true,
+    },
 });
 
 //Export the model
-module.exports = mongoose.model('ProductCategory', productCategorySchema);
+module.exports = mongoose.model('Role', roleSchema);
