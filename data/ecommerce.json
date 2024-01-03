@@ -8,7 +8,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z2_1024x1024.jpg?v=1491404851",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z3_1024x1024.jpg?v=1491404851"
         ],
-        "price": "7.194.957,40 VND",
+        "price": "7.194.957,40 ETH",
         "description": [
             "Technology: GSM / HSPA / LTE",
             "Dimensions: 144.6 x 69.2 x 7.3 mm",
@@ -24,27 +24,15 @@
         "variants": [
             {
                 "label": "Internal",
-                "variants": [
-                    "32GB",
-                    "64GB",
-                    "128GB"
-                ]
+                "variants": ["32GB", "64GB", "128GB"]
             },
             {
                 "label": "Color",
-                "variants": [
-                    "BLACK",
-                    "WHITE",
-                    "GOLD",
-                    "CERAMIC"
-                ]
+                "variants": ["BLACK", "WHITE", "GOLD", "CERAMIC"]
             },
             {
                 "label": "Ram",
-                "variants": [
-                    "2GB",
-                    "3GB"
-                ]
+                "variants": ["2GB", "3GB"]
             }
         ],
         "infomations": {
@@ -62,7 +50,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/vivo-v5-1_1024x1024.jpg?v=1491404855",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/vivo-v5-2_1024x1024.jpg?v=1491404855"
         ],
-        "price": "5.897.506,06 VND",
+        "price": "5.897.506,06 ETH",
         "description": [
             "Technology: GSM / HSPA / LTE",
             "Dimensions: 153.8 x 75.5 x 7.6 mm",
@@ -78,10 +66,7 @@
         "variants": [
             {
                 "label": "Color",
-                "variants": [
-                    "GOLD",
-                    "GRAY"
-                ]
+                "variants": ["GOLD", "GRAY"]
             }
         ],
         "infomations": {
@@ -100,7 +85,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/gsmarena_015_1024x1024.jpg?v=1491404881",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/sony-xperia-xz1_1024x1024.jpg?v=1491404881"
         ],
-        "price": "16.701.737,17 VND",
+        "price": "16.701.737,17 ETH",
         "description": [
             "Technology: GSM / HSPA / LTE",
             "Dimensions: 146 x 72 x 8.1 mm",
@@ -116,19 +101,11 @@
         "variants": [
             {
                 "label": "Internal",
-                "variants": [
-                    "32GB",
-                    "64GB"
-                ]
+                "variants": ["32GB", "64GB"]
             },
             {
                 "label": "Color",
-                "variants": [
-                    "MINERAL BLACK",
-                    "PLATINUM",
-                    "FOREST BLUE",
-                    "DEEP PINK"
-                ]
+                "variants": ["MINERAL BLACK", "PLATINUM", "FOREST BLUE", "DEEP PINK"]
             }
         ],
         "infomations": {
@@ -147,7 +124,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/samsung-galaxy-s6_1024x1024.png?v=1491404832",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/samsung-galaxy-s6-edge-plus-black-sapphire-spin.0001_1024x1024.png?v=1491404832"
         ],
-        "price": "21.207.431,80 VND",
+        "price": "21.207.431,80 ETH",
         "description": [
             "Technology: GSM / CDMA / HSPA / EVDO / LTE",
             "Dimensions: 142.4 x 69.6 x 7.9 mm",
@@ -163,9 +140,7 @@
         "variants": [
             {
                 "label": "Size",
-                "variants": [
-                    "LARGE"
-                ]
+                "variants": ["LARGE"]
             }
         ],
         "infomations": {
@@ -184,7 +159,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/samsung-galaxy-j7-prime-2_1024x1024.jpg?v=1491404895",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/samsung-galaxy-j7-prime-3_1024x1024.jpg?v=1491404895"
         ],
-        "price": "9.850.250,53 VND",
+        "price": "9.850.250,53 ETH",
         "description": [
             "Technology: GSM / HSPA / LTE",
             "Dimensions: 151.7 x 75 x 8 mm",
@@ -200,17 +175,11 @@
         "variants": [
             {
                 "label": "Internal",
-                "variants": [
-                    "12GB",
-                    "16GB"
-                ]
+                "variants": ["12GB", "16GB"]
             },
             {
                 "label": "Color",
-                "variants": [
-                    "BLACK",
-                    "GOLD"
-                ]
+                "variants": ["BLACK", "GOLD"]
             }
         ],
         "infomations": {
@@ -230,7 +199,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/lg-g5-1_1024x1024.jpg?v=1491404872",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/lg-g5-02_1024x1024.jpg?v=1491404872"
         ],
-        "price": "13.918.114,31 VND",
+        "price": "13.918.114,31 ETH",
         "description": [
             "Technology: GSM / CDMA / HSPA / LTE",
             "Dimensions: 149.4 x 73.9 x 7.7 mm",
@@ -261,7 +230,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/3_1024x1024.jpg?v=1491404827",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/4_1024x1024.jpg?v=1491404827"
         ],
-        "price": "21.207.431,80 VND",
+        "price": "21.207.431,80 ETH",
         "description": [
             "Technology: GSM / CDMA / HSPA / EVDO / LTE",
             "Dimensions: 138.3 x 67.1 x 7.1 mm",
@@ -277,19 +246,11 @@
         "variants": [
             {
                 "label": "Capacity",
-                "variants": [
-                    "32GB",
-                    "64GB",
-                    "128GB"
-                ]
+                "variants": ["32GB", "64GB", "128GB"]
             },
             {
                 "label": "Color",
-                "variants": [
-                    "BLACK",
-                    "GOLD",
-                    "WHITE"
-                ]
+                "variants": ["BLACK", "GOLD", "WHITE"]
             }
         ],
         "infomations": {
@@ -307,7 +268,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/htc-10-5_1024x1024.jpg?v=1491404875",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/htc-10-r_1024x1024.jpg?v=1491404875"
         ],
-        "price": "12.196.042,54 VND",
+        "price": "12.196.042,54 ETH",
         "description": [
             "Technology: GSM / CDMA / HSPA / LTE",
             "Dimensions: 145.9 x 71.9 x 9 mm",
@@ -323,19 +284,11 @@
         "variants": [
             {
                 "label": "Internal",
-                "variants": [
-                    "32GB",
-                    "64GB"
-                ]
+                "variants": ["32GB", "64GB"]
             },
             {
                 "label": "Color",
-                "variants": [
-                    "CARBON GRAY",
-                    "TOPAZ GOLD",
-                    "GLACIER SILVER",
-                    "CAMELLIA RED"
-                ]
+                "variants": ["CARBON GRAY", "TOPAZ GOLD", "GLACIER SILVER", "CAMELLIA RED"]
             }
         ],
         "infomations": {
@@ -357,7 +310,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/gsmarena_020_1024x1024.jpg?v=1491404903",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/gsmarena_023_1024x1024.jpg?v=1491404903"
         ],
-        "price": "19.681.157,23 VND",
+        "price": "19.681.157,23 ETH",
         "description": [
             "Technology: GSM / CDMA / HSPA / EVDO / LTE",
             "Dimensions: 143.8 x 69.5 x 8.5 mm",
@@ -373,18 +326,11 @@
         "variants": [
             {
                 "label": "Internal",
-                "variants": [
-                    "32GB",
-                    "128GB"
-                ]
+                "variants": ["32GB", "128GB"]
             },
             {
                 "label": "Color",
-                "variants": [
-                    "QUITE BLACK",
-                    "VERY SILVER",
-                    "REALLY BLUE"
-                ]
+                "variants": ["QUITE BLACK", "VERY SILVER", "REALLY BLUE"]
             }
         ],
         "infomations": {
@@ -404,7 +350,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/xiaomi-redmi-note-3-2_1024x1024.jpg?v=1491404888",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/xiaomi-redmi-note-3-3_1024x1024.jpg?v=1491404889"
         ],
-        "price": "4.151.608,37 VND",
+        "price": "4.151.608,37 ETH",
         "description": [
             "Technology: GSM / HSPA / LTE",
             "Dimensions: 150 x 76 x 8.7 mm",
@@ -420,25 +366,15 @@
         "variants": [
             {
                 "label": "Internal",
-                "variants": [
-                    "12GB",
-                    "32GB"
-                ]
+                "variants": ["12GB", "32GB"]
             },
             {
                 "label": "Color",
-                "variants": [
-                    "SILVER",
-                    "GRAY",
-                    "GOLD"
-                ]
+                "variants": ["SILVER", "GRAY", "GOLD"]
             },
             {
                 "label": "Ram",
-                "variants": [
-                    "2GB",
-                    "3GB"
-                ]
+                "variants": ["2GB", "3GB"]
             }
         ],
         "infomations": {
@@ -458,7 +394,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/sony-xperia-z4-tablet-2_1024x1024.jpg?v=1491404927",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/sony-xperia-z4-tablet-2_dbebeed1-de5c-4bff-9c53-8aa708c32ca5_1024x1024.jpg?v=1491404927"
         ],
-        "price": "16.489.426,95 VND",
+        "price": "16.489.426,95 ETH",
         "description": [
             "Technology: GSM / HSPA / LTE",
             "Dimensions: 254 x 167 x 6.1 mm",
@@ -474,10 +410,7 @@
         "variants": [
             {
                 "label": "Color",
-                "variants": [
-                    "BLACK",
-                    "WHITE"
-                ]
+                "variants": ["BLACK", "WHITE"]
             }
         ],
         "infomations": {
@@ -495,7 +428,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/samsung-galaxy-tab-s-84-1_1024x1024.jpg?v=1491404867",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/samsung-galaxy-tab-s-84-3_1024x1024.jpg?v=1491404867"
         ],
-        "price": "13.186.351,76 VND",
+        "price": "13.186.351,76 ETH",
         "description": [
             "Technology: GSM / HSPA / LTE",
             "Dimensions: 212.8 x 125.6 x 6.6 mm",
@@ -511,17 +444,11 @@
         "variants": [
             {
                 "label": "Size",
-                "variants": [
-                    "16GB",
-                    "32GB"
-                ]
+                "variants": ["16GB", "32GB"]
             },
             {
                 "label": "Color",
-                "variants": [
-                    "DAZZLING WHITE",
-                    "TITANIUM BRONZE"
-                ]
+                "variants": ["DAZZLING WHITE", "TITANIUM BRONZE"]
             }
         ],
         "infomations": {
@@ -538,7 +465,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/Untitled-2_1024x1024.jpg?v=1491404930",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/Untitled-3_1024x1024.jpg?v=1491404930"
         ],
-        "price": "8.704.718,95 VND",
+        "price": "8.704.718,95 ETH",
         "description": [
             "Technology: GSM / HSPA / LTE",
             "Dimensions: 256.2 x 167.9 x 6.7 mm",
@@ -568,7 +495,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/lenovo-yoga-tab3-plus1_1024x1024.jpg?v=1491404819",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/lenovo-yoga-tab3-plus2_1024x1024.jpg?v=1491404819"
         ],
-        "price": "11.771.422,10 VND",
+        "price": "11.771.422,10 ETH",
         "description": [
             "Technology: GSM / HSPA / LTE",
             "Dimensions: 247 x 179 mm",
@@ -598,7 +525,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/huawei-mediapad-t1-70-2_1024x1024.jpg?v=1491404838",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/huawei-mediapad-t1-70-11_1024x1024.jpg?v=1491404838"
         ],
-        "price": "2.335.412,40 VND",
+        "price": "2.335.412,40 ETH",
         "description": [
             "Technology: GSM / HSPA",
             "Dimensions: 191.8 x 107 x 8.5 mm",
@@ -627,7 +554,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/asus-zenpad-3-80-z581kl-1_1024x1024.jpg?v=1491404859",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/asus-zenpad-3-80-z581kl-2_1024x1024.jpg?v=1491404859"
         ],
-        "price": "6.605.206,79 VND",
+        "price": "6.605.206,79 ETH",
         "description": [
             "Technology: GSM / HSPA / LTE",
             "Dimensions: 205.4 x 136.4 x 7.6 mm",
@@ -658,7 +585,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/apple-ipad-pro-4_1024x1024.jpg?v=1491404844",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/apple-ipad-pro-5_1024x1024.jpg?v=1491404844"
         ],
-        "price": "33.026.033,95 VND",
+        "price": "33.026.033,95 ETH",
         "description": [
             "Technology: GSM / CDMA / HSPA / EVDO / LTE",
             "Dimensions: 305.7 x 220.6 x 6.9 mm",
@@ -674,19 +601,11 @@
         "variants": [
             {
                 "label": "Internal",
-                "variants": [
-                    "32GB",
-                    "128GB",
-                    "256GB"
-                ]
+                "variants": ["32GB", "128GB", "256GB"]
             },
             {
                 "label": "Color",
-                "variants": [
-                    "SPACE GRAY",
-                    "SILVER",
-                    "GOLD"
-                ]
+                "variants": ["SPACE GRAY", "SILVER", "GOLD"]
             }
         ],
         "infomations": {
@@ -705,7 +624,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/apple-ipad-air-2-3_1024x1024.jpg?v=1491404862",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/apple-ipad-air-2-4_1024x1024.jpg?v=1491404862"
         ],
-        "price": "8.468.818,71 VND",
+        "price": "8.468.818,71 ETH",
         "description": [
             "Technology: GSM / CDMA / HSPA / EVDO / LTE",
             "Dimensions: 240 x 169.5 x 6.1 mm",
@@ -721,20 +640,11 @@
         "variants": [
             {
                 "label": "Size",
-                "variants": [
-                    "16GB",
-                    "32GB",
-                    "64GB",
-                    "128GB"
-                ]
+                "variants": ["16GB", "32GB", "64GB", "128GB"]
             },
             {
                 "label": "Color",
-                "variants": [
-                    "SPACE GRAY",
-                    "SILVER",
-                    "GOLD"
-                ]
+                "variants": ["SPACE GRAY", "SILVER", "GOLD"]
             }
         ],
         "infomations": {
@@ -752,7 +662,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z2_6f644814-23bf-4439-80ff-0b5d50baf196_1024x1024.jpg?v=1491404790",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z3_76a134cf-ab12-45ae-bf1d-54a1ec20982d_1024x1024.jpg?v=1491404790"
         ],
-        "price": "17.668.928,16 VND",
+        "price": "17.668.928,16 ETH",
         "description": [
             "Processor: Intel, Core i7 Skylake",
             "Memory: DDR4 - 8 GB",
@@ -781,7 +691,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z2_2_b21a3aa8-86ed-4338-985d-0bfca8fea6e0_1024x1024.jpg?v=1491404782",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z3_2_86e4ff89-2434-4fe7-b758-49d789152900_1024x1024.jpg?v=1491404782"
         ],
-        "price": "20.027.930,59 VND",
+        "price": "20.027.930,59 ETH",
         "description": [
             "Processor: Intel, Core i5 Skylake",
             "Memory: DDR4 - 4 GB",
@@ -810,7 +720,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/x3_1024x1024.jpg?v=1491404795",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/x1_1024x1024.jpg?v=1491404795"
         ],
-        "price": "18.848.429,38 VND",
+        "price": "18.848.429,38 ETH",
         "description": [
             "Processor: Intel, Core i7 Skylake",
             "Memory: DDR4 4 GB",
@@ -839,7 +749,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z2_2_eda0eb59-ee79-4c50-b724-c9ed562d180b_1024x1024.jpg?v=1491404804",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z3_2_0267f8b8-d3ca-475f-a6f2-0a999f863a0a_1024x1024.jpg?v=1491404804"
         ],
-        "price": "21.207.431,80 VND",
+        "price": "21.207.431,80 ETH",
         "description": [
             "Processor: Core i5 Kabylake 2.50GHz",
             "Memory: DDR4 4GB 2400MHz",
@@ -868,7 +778,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z2_1_f7b95ca1-d4cf-4b52-a22a-481db6b06c82_1024x1024.jpg?v=1491404807",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z3_1_59dcf671-2402-42e8-9c71-d1a262eca464_1024x1024.jpg?v=1491404807"
         ],
-        "price": "7.053.417,25 VND",
+        "price": "7.053.417,25 ETH",
         "description": [
             "Processor: Intel® Pentium® N3700 Processor",
             "Memory: DDR3 2 GB",
@@ -884,11 +794,7 @@
         "variants": [
             {
                 "label": "Color",
-                "variants": [
-                    "RED",
-                    "BLUE",
-                    "WHITE"
-                ]
+                "variants": ["RED", "BLUE", "WHITE"]
             }
         ],
         "infomations": {
@@ -906,7 +812,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z4_1_4c7eeac9-df0b-4725-8a45-cb6c87b42eba_1024x1024.jpg?v=1491404800",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z5_1_1024x1024.jpg?v=1491404800"
         ],
-        "price": "35.361.446,35 VND",
+        "price": "35.361.446,35 ETH",
         "description": [
             "Processor: 2.0GHz Core i5",
             "Memory: DDR4 8GB 1866MHz",
@@ -935,7 +841,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z2_4_1024x1024.jpg?v=1491404771",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z3_4_1024x1024.jpg?v=1491404771"
         ],
-        "price": "28.072.128,86 VND",
+        "price": "28.072.128,86 ETH",
         "description": [
             "Processor: Core i5 Broadwelle",
             "Memory: DDR3L - 8 GB",
@@ -964,7 +870,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z2_1_bac0625f-a20a-431b-b73b-0ca2ec0e1495_1024x1024.jpg?v=1491404787",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z3_1_ab603453-7471-477c-a63d-987e838aca3b_1024x1024.jpg?v=1491404787"
         ],
-        "price": "14.602.225,01 VND",
+        "price": "14.602.225,01 ETH",
         "description": [
             "Processor: Intel, Core i5 Skylake",
             "Memory: DDR4 - 4 GB",
@@ -992,7 +898,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z5_1024x1024.jpg?v=1491404811"
         ],
-        "price": "164.894,27 VND",
+        "price": "164.894,27 ETH",
         "description": [
             "Read Speed: up to 130 MB/s",
             "Generation: USB 3.0",
@@ -1004,12 +910,7 @@
         "variants": [
             {
                 "label": "Capacity",
-                "variants": [
-                    "16GB",
-                    "32GB",
-                    "64GB",
-                    "128GB"
-                ]
+                "variants": ["16GB", "32GB", "64GB", "128GB"]
             }
         ],
         "infomations": {
@@ -1023,7 +924,7 @@
         "name": "SENNHEISER EZX 80",
         "thumb": "https://cdn.shopify.com/s/files/1/1903/4853/products/z1_2_1024x1024.jpg?v=1491404910",
         "images": [],
-        "price": "1.627.711,67 VND",
+        "price": "1.627.711,67 ETH",
         "description": [
             "Long talk time – Up to 10 hours",
             "Tells you how it’s doing",
@@ -1054,7 +955,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z3_1_1024x1024.jpg?v=1491404913",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z4_1_1024x1024.jpg?v=1491404913"
         ],
-        "price": "2.335.412,40 VND",
+        "price": "2.335.412,40 ETH",
         "description": [
             "Connections: USB 2.0, USB 3.0",
             "Controls: Onboard touchpad, Bluetooth controllers",
@@ -1083,7 +984,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/motorola-moto-360-2015-3_1024x1024.jpg?v=1491404918",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/motorola-moto-360-2015-4_1024x1024.jpg?v=1491404918"
         ],
-        "price": "8.256.272,59 VND",
+        "price": "8.256.272,59 ETH",
         "description": [
             "Technology: No cellular connectivity",
             "Dimensions: 46 x 46 x 11.4 mm",
@@ -1099,19 +1000,11 @@
         "variants": [
             {
                 "label": "Color",
-                "variants": [
-                    "BLACK LEATHER",
-                    "BLACK METAL",
-                    "ROSE GOLD",
-                    "SILVER"
-                ]
+                "variants": ["BLACK LEATHER", "BLACK METAL", "ROSE GOLD", "SILVER"]
             },
             {
                 "label": "Traps",
-                "variants": [
-                    "42MM",
-                    "46MM"
-                ]
+                "variants": ["42MM", "46MM"]
             }
         ],
         "infomations": {
@@ -1125,7 +1018,7 @@
         "name": "LOGITECH WIRELESS KEYBOARD MK240 NANO",
         "thumb": "https://cdn.shopify.com/s/files/1/1903/4853/products/z6_1024x1024.jpg?v=1491404809",
         "images": [],
-        "price": "574.181,19 VND",
+        "price": "574.181,19 ETH",
         "description": [
             "Dimensions: 139mm x 288mm x 21mm",
             "Weight: 312 g",
@@ -1152,7 +1045,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z2_2ca9a51c-540d-4bbc-8be1-88dc83ccefa1_1024x1024.jpg?v=1491404814"
         ],
-        "price": "424.384,54 VND",
+        "price": "424.384,54 ETH",
         "description": [
             "Technology: USB port or Bluetooth",
             "Dimensions: 61.6 x 100.3 x 1.4 mm",
@@ -1168,11 +1061,7 @@
         "variants": [
             {
                 "label": "Color",
-                "variants": [
-                    "BLACK",
-                    "NAVY BLUE",
-                    "STONE"
-                ]
+                "variants": ["BLACK", "NAVY BLUE", "STONE"]
             }
         ],
         "infomations": {
@@ -1190,7 +1079,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z3_2_1024x1024.jpg?v=1491404907",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z4_2_1024x1024.jpg?v=1491404907"
         ],
-        "price": "3.183.473,77 VND",
+        "price": "3.183.473,77 ETH",
         "description": [
             "Battery type: Lithium-ion Polymer (22.2Wh)",
             "Music playing time: up to 20h",
@@ -1205,13 +1094,7 @@
         "variants": [
             {
                 "label": "Color",
-                "variants": [
-                    "BLACK",
-                    "BLUE",
-                    "GREY",
-                    "RED",
-                    "TEAL"
-                ]
+                "variants": ["BLACK", "BLUE", "GREY", "RED", "TEAL"]
             }
         ],
         "infomations": {
@@ -1228,7 +1111,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/Untitled-123_1024x1024.jpg?v=1491404922",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/apple-watch2-edition-42mm2_1024x1024.jpg?v=1491404922"
         ],
-        "price": "8.704.718,95 VND",
+        "price": "8.704.718,95 ETH",
         "description": [
             "Technology: No cellular connectivity",
             "Dimensions: 42.6 x 36.5 x 11.4 mm",
@@ -1244,24 +1127,15 @@
         "variants": [
             {
                 "label": "Type",
-                "variants": [
-                    "EDITION",
-                    "SPORT"
-                ]
+                "variants": ["EDITION", "SPORT"]
             },
             {
                 "label": "Color",
-                "variants": [
-                    "WHITE",
-                    "SPORT BAND"
-                ]
+                "variants": ["WHITE", "SPORT BAND"]
             },
             {
                 "label": "Strap",
-                "variants": [
-                    "42MM",
-                    "38MM"
-                ]
+                "variants": ["42MM", "38MM"]
             }
         ],
         "infomations": {
@@ -1278,7 +1152,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z5_1024x1024.jpg?v=1491404811"
         ],
-        "price": "164.894,27 VND",
+        "price": "164.894,27 ETH",
         "description": [
             "Read Speed: up to 130 MB/s",
             "Generation: USB 3.0",
@@ -1290,12 +1164,7 @@
         "variants": [
             {
                 "label": "Capacity",
-                "variants": [
-                    "16GB",
-                    "32GB",
-                    "64GB",
-                    "128GB"
-                ]
+                "variants": ["16GB", "32GB", "64GB", "128GB"]
             }
         ],
         "infomations": {
@@ -1309,7 +1178,7 @@
         "name": "SENNHEISER EZX 80",
         "thumb": "https://cdn.shopify.com/s/files/1/1903/4853/products/z1_2_1024x1024.jpg?v=1491404910",
         "images": [],
-        "price": "1.627.711,67 VND",
+        "price": "1.627.711,67 ETH",
         "description": [
             "Long talk time – Up to 10 hours",
             "Tells you how it’s doing",
@@ -1340,7 +1209,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z3_1_1024x1024.jpg?v=1491404913",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z4_1_1024x1024.jpg?v=1491404913"
         ],
-        "price": "2.335.412,40 VND",
+        "price": "2.335.412,40 ETH",
         "description": [
             "Connections: USB 2.0, USB 3.0",
             "Controls: Onboard touchpad, Bluetooth controllers",
@@ -1369,7 +1238,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/motorola-moto-360-2015-3_1024x1024.jpg?v=1491404918",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/motorola-moto-360-2015-4_1024x1024.jpg?v=1491404918"
         ],
-        "price": "8.256.272,59 VND",
+        "price": "8.256.272,59 ETH",
         "description": [
             "Technology: No cellular connectivity",
             "Dimensions: 46 x 46 x 11.4 mm",
@@ -1385,19 +1254,11 @@
         "variants": [
             {
                 "label": "Color",
-                "variants": [
-                    "BLACK LEATHER",
-                    "BLACK METAL",
-                    "ROSE GOLD",
-                    "SILVER"
-                ]
+                "variants": ["BLACK LEATHER", "BLACK METAL", "ROSE GOLD", "SILVER"]
             },
             {
                 "label": "Traps",
-                "variants": [
-                    "42MM",
-                    "46MM"
-                ]
+                "variants": ["42MM", "46MM"]
             }
         ],
         "infomations": {
@@ -1411,7 +1272,7 @@
         "name": "LOGITECH WIRELESS KEYBOARD MK240 NANO",
         "thumb": "https://cdn.shopify.com/s/files/1/1903/4853/products/z6_1024x1024.jpg?v=1491404809",
         "images": [],
-        "price": "574.181,19 VND",
+        "price": "574.181,19 ETH",
         "description": [
             "Dimensions: 139mm x 288mm x 21mm",
             "Weight: 312 g",
@@ -1438,7 +1299,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z2_2ca9a51c-540d-4bbc-8be1-88dc83ccefa1_1024x1024.jpg?v=1491404814"
         ],
-        "price": "424.384,54 VND",
+        "price": "424.384,54 ETH",
         "description": [
             "Technology: USB port or Bluetooth",
             "Dimensions: 61.6 x 100.3 x 1.4 mm",
@@ -1454,11 +1315,7 @@
         "variants": [
             {
                 "label": "Color",
-                "variants": [
-                    "BLACK",
-                    "NAVY BLUE",
-                    "STONE"
-                ]
+                "variants": ["BLACK", "NAVY BLUE", "STONE"]
             }
         ],
         "infomations": {
@@ -1476,7 +1333,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z3_2_1024x1024.jpg?v=1491404907",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z4_2_1024x1024.jpg?v=1491404907"
         ],
-        "price": "3.183.473,77 VND",
+        "price": "3.183.473,77 ETH",
         "description": [
             "Battery type: Lithium-ion Polymer (22.2Wh)",
             "Music playing time: up to 20h",
@@ -1491,13 +1348,7 @@
         "variants": [
             {
                 "label": "Color",
-                "variants": [
-                    "BLACK",
-                    "BLUE",
-                    "GREY",
-                    "RED",
-                    "TEAL"
-                ]
+                "variants": ["BLACK", "BLUE", "GREY", "RED", "TEAL"]
             }
         ],
         "infomations": {
@@ -1514,7 +1365,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/Untitled-123_1024x1024.jpg?v=1491404922",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/apple-watch2-edition-42mm2_1024x1024.jpg?v=1491404922"
         ],
-        "price": "8.704.718,95 VND",
+        "price": "8.704.718,95 ETH",
         "description": [
             "Technology: No cellular connectivity",
             "Dimensions: 42.6 x 36.5 x 11.4 mm",
@@ -1530,24 +1381,15 @@
         "variants": [
             {
                 "label": "Type",
-                "variants": [
-                    "EDITION",
-                    "SPORT"
-                ]
+                "variants": ["EDITION", "SPORT"]
             },
             {
                 "label": "Color",
-                "variants": [
-                    "WHITE",
-                    "SPORT BAND"
-                ]
+                "variants": ["WHITE", "SPORT BAND"]
             },
             {
                 "label": "Strap",
-                "variants": [
-                    "42MM",
-                    "38MM"
-                ]
+                "variants": ["42MM", "38MM"]
             }
         ],
         "infomations": {
@@ -1564,7 +1406,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z5_1024x1024.jpg?v=1491404811"
         ],
-        "price": "164.894,27 VND",
+        "price": "164.894,27 ETH",
         "description": [
             "Read Speed: up to 130 MB/s",
             "Generation: USB 3.0",
@@ -1576,12 +1418,7 @@
         "variants": [
             {
                 "label": "Capacity",
-                "variants": [
-                    "16GB",
-                    "32GB",
-                    "64GB",
-                    "128GB"
-                ]
+                "variants": ["16GB", "32GB", "64GB", "128GB"]
             }
         ],
         "infomations": {
@@ -1595,7 +1432,7 @@
         "name": "SENNHEISER EZX 80",
         "thumb": "https://cdn.shopify.com/s/files/1/1903/4853/products/z1_2_1024x1024.jpg?v=1491404910",
         "images": [],
-        "price": "1.627.711,67 VND",
+        "price": "1.627.711,67 ETH",
         "description": [
             "Long talk time – Up to 10 hours",
             "Tells you how it’s doing",
@@ -1626,7 +1463,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z3_1_1024x1024.jpg?v=1491404913",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z4_1_1024x1024.jpg?v=1491404913"
         ],
-        "price": "2.335.412,40 VND",
+        "price": "2.335.412,40 ETH",
         "description": [
             "Connections: USB 2.0, USB 3.0",
             "Controls: Onboard touchpad, Bluetooth controllers",
@@ -1655,7 +1492,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/motorola-moto-360-2015-3_1024x1024.jpg?v=1491404918",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/motorola-moto-360-2015-4_1024x1024.jpg?v=1491404918"
         ],
-        "price": "8.256.272,59 VND",
+        "price": "8.256.272,59 ETH",
         "description": [
             "Technology: No cellular connectivity",
             "Dimensions: 46 x 46 x 11.4 mm",
@@ -1671,19 +1508,11 @@
         "variants": [
             {
                 "label": "Color",
-                "variants": [
-                    "BLACK LEATHER",
-                    "BLACK METAL",
-                    "ROSE GOLD",
-                    "SILVER"
-                ]
+                "variants": ["BLACK LEATHER", "BLACK METAL", "ROSE GOLD", "SILVER"]
             },
             {
                 "label": "Traps",
-                "variants": [
-                    "42MM",
-                    "46MM"
-                ]
+                "variants": ["42MM", "46MM"]
             }
         ],
         "infomations": {
@@ -1697,7 +1526,7 @@
         "name": "LOGITECH WIRELESS KEYBOARD MK240 NANO",
         "thumb": "https://cdn.shopify.com/s/files/1/1903/4853/products/z6_1024x1024.jpg?v=1491404809",
         "images": [],
-        "price": "574.181,19 VND",
+        "price": "574.181,19 ETH",
         "description": [
             "Dimensions: 139mm x 288mm x 21mm",
             "Weight: 312 g",
@@ -1724,7 +1553,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z2_2ca9a51c-540d-4bbc-8be1-88dc83ccefa1_1024x1024.jpg?v=1491404814"
         ],
-        "price": "424.384,54 VND",
+        "price": "424.384,54 ETH",
         "description": [
             "Technology: USB port or Bluetooth",
             "Dimensions: 61.6 x 100.3 x 1.4 mm",
@@ -1740,11 +1569,7 @@
         "variants": [
             {
                 "label": "Color",
-                "variants": [
-                    "BLACK",
-                    "NAVY BLUE",
-                    "STONE"
-                ]
+                "variants": ["BLACK", "NAVY BLUE", "STONE"]
             }
         ],
         "infomations": {
@@ -1762,7 +1587,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z3_2_1024x1024.jpg?v=1491404907",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z4_2_1024x1024.jpg?v=1491404907"
         ],
-        "price": "3.183.473,77 VND",
+        "price": "3.183.473,77 ETH",
         "description": [
             "Battery type: Lithium-ion Polymer (22.2Wh)",
             "Music playing time: up to 20h",
@@ -1777,13 +1602,7 @@
         "variants": [
             {
                 "label": "Color",
-                "variants": [
-                    "BLACK",
-                    "BLUE",
-                    "GREY",
-                    "RED",
-                    "TEAL"
-                ]
+                "variants": ["BLACK", "BLUE", "GREY", "RED", "TEAL"]
             }
         ],
         "infomations": {
@@ -1800,7 +1619,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/Untitled-123_1024x1024.jpg?v=1491404922",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/apple-watch2-edition-42mm2_1024x1024.jpg?v=1491404922"
         ],
-        "price": "8.704.718,95 VND",
+        "price": "8.704.718,95 ETH",
         "description": [
             "Technology: No cellular connectivity",
             "Dimensions: 42.6 x 36.5 x 11.4 mm",
@@ -1816,24 +1635,15 @@
         "variants": [
             {
                 "label": "Type",
-                "variants": [
-                    "EDITION",
-                    "SPORT"
-                ]
+                "variants": ["EDITION", "SPORT"]
             },
             {
                 "label": "Color",
-                "variants": [
-                    "WHITE",
-                    "SPORT BAND"
-                ]
+                "variants": ["WHITE", "SPORT BAND"]
             },
             {
                 "label": "Strap",
-                "variants": [
-                    "42MM",
-                    "38MM"
-                ]
+                "variants": ["42MM", "38MM"]
             }
         ],
         "infomations": {
@@ -1852,7 +1662,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z3_1_1024x1024.jpg?v=1491404913",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z4_1_1024x1024.jpg?v=1491404913"
         ],
-        "price": "2.335.412,40 VND",
+        "price": "2.335.412,40 ETH",
         "description": [
             "Connections: USB 2.0, USB 3.0",
             "Controls: Onboard touchpad, Bluetooth controllers",
@@ -1881,7 +1691,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/motorola-moto-360-2015-3_1024x1024.jpg?v=1491404918",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/motorola-moto-360-2015-4_1024x1024.jpg?v=1491404918"
         ],
-        "price": "8.256.272,59 VND",
+        "price": "8.256.272,59 ETH",
         "description": [
             "Technology: No cellular connectivity",
             "Dimensions: 46 x 46 x 11.4 mm",
@@ -1897,19 +1707,11 @@
         "variants": [
             {
                 "label": "Color",
-                "variants": [
-                    "BLACK LEATHER",
-                    "BLACK METAL",
-                    "ROSE GOLD",
-                    "SILVER"
-                ]
+                "variants": ["BLACK LEATHER", "BLACK METAL", "ROSE GOLD", "SILVER"]
             },
             {
                 "label": "Traps",
-                "variants": [
-                    "42MM",
-                    "46MM"
-                ]
+                "variants": ["42MM", "46MM"]
             }
         ],
         "infomations": {
@@ -1923,7 +1725,7 @@
         "name": "LOGITECH WIRELESS KEYBOARD MK240 NANO",
         "thumb": "https://cdn.shopify.com/s/files/1/1903/4853/products/z6_1024x1024.jpg?v=1491404809",
         "images": [],
-        "price": "574.181,19 VND",
+        "price": "574.181,19 ETH",
         "description": [
             "Dimensions: 139mm x 288mm x 21mm",
             "Weight: 312 g",
@@ -1950,7 +1752,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z2_2ca9a51c-540d-4bbc-8be1-88dc83ccefa1_1024x1024.jpg?v=1491404814"
         ],
-        "price": "424.384,54 VND",
+        "price": "424.384,54 ETH",
         "description": [
             "Technology: USB port or Bluetooth",
             "Dimensions: 61.6 x 100.3 x 1.4 mm",
@@ -1966,11 +1768,7 @@
         "variants": [
             {
                 "label": "Color",
-                "variants": [
-                    "BLACK",
-                    "NAVY BLUE",
-                    "STONE"
-                ]
+                "variants": ["BLACK", "NAVY BLUE", "STONE"]
             }
         ],
         "infomations": {
@@ -1988,7 +1786,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z3_2_1024x1024.jpg?v=1491404907",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z4_2_1024x1024.jpg?v=1491404907"
         ],
-        "price": "3.183.473,77 VND",
+        "price": "3.183.473,77 ETH",
         "description": [
             "Battery type: Lithium-ion Polymer (22.2Wh)",
             "Music playing time: up to 20h",
@@ -2003,13 +1801,7 @@
         "variants": [
             {
                 "label": "Color",
-                "variants": [
-                    "BLACK",
-                    "BLUE",
-                    "GREY",
-                    "RED",
-                    "TEAL"
-                ]
+                "variants": ["BLACK", "BLUE", "GREY", "RED", "TEAL"]
             }
         ],
         "infomations": {
@@ -2026,7 +1818,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/Untitled-123_1024x1024.jpg?v=1491404922",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/apple-watch2-edition-42mm2_1024x1024.jpg?v=1491404922"
         ],
-        "price": "8.704.718,95 VND",
+        "price": "8.704.718,95 ETH",
         "description": [
             "Technology: No cellular connectivity",
             "Dimensions: 42.6 x 36.5 x 11.4 mm",
@@ -2042,24 +1834,15 @@
         "variants": [
             {
                 "label": "Type",
-                "variants": [
-                    "EDITION",
-                    "SPORT"
-                ]
+                "variants": ["EDITION", "SPORT"]
             },
             {
                 "label": "Color",
-                "variants": [
-                    "WHITE",
-                    "SPORT BAND"
-                ]
+                "variants": ["WHITE", "SPORT BAND"]
             },
             {
                 "label": "Strap",
-                "variants": [
-                    "42MM",
-                    "38MM"
-                ]
+                "variants": ["42MM", "38MM"]
             }
         ],
         "infomations": {
@@ -2076,7 +1859,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z5_1024x1024.jpg?v=1491404811"
         ],
-        "price": "164.894,27 VND",
+        "price": "164.894,27 ETH",
         "description": [
             "Read Speed: up to 130 MB/s",
             "Generation: USB 3.0",
@@ -2088,12 +1871,7 @@
         "variants": [
             {
                 "label": "Capacity",
-                "variants": [
-                    "16GB",
-                    "32GB",
-                    "64GB",
-                    "128GB"
-                ]
+                "variants": ["16GB", "32GB", "64GB", "128GB"]
             }
         ],
         "infomations": {
@@ -2107,7 +1885,7 @@
         "name": "SENNHEISER EZX 80",
         "thumb": "https://cdn.shopify.com/s/files/1/1903/4853/products/z1_2_1024x1024.jpg?v=1491404910",
         "images": [],
-        "price": "1.627.711,67 VND",
+        "price": "1.627.711,67 ETH",
         "description": [
             "Long talk time – Up to 10 hours",
             "Tells you how it’s doing",
@@ -2136,7 +1914,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z5_1024x1024.jpg?v=1491404811"
         ],
-        "price": "164.894,27 VND",
+        "price": "164.894,27 ETH",
         "description": [
             "Read Speed: up to 130 MB/s",
             "Generation: USB 3.0",
@@ -2148,12 +1926,7 @@
         "variants": [
             {
                 "label": "Capacity",
-                "variants": [
-                    "16GB",
-                    "32GB",
-                    "64GB",
-                    "128GB"
-                ]
+                "variants": ["16GB", "32GB", "64GB", "128GB"]
             }
         ],
         "infomations": {
@@ -2167,7 +1940,7 @@
         "name": "SENNHEISER EZX 80",
         "thumb": "https://cdn.shopify.com/s/files/1/1903/4853/products/z1_2_1024x1024.jpg?v=1491404910",
         "images": [],
-        "price": "1.627.711,67 VND",
+        "price": "1.627.711,67 ETH",
         "description": [
             "Long talk time – Up to 10 hours",
             "Tells you how it’s doing",
@@ -2198,7 +1971,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z3_1_1024x1024.jpg?v=1491404913",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z4_1_1024x1024.jpg?v=1491404913"
         ],
-        "price": "2.335.412,40 VND",
+        "price": "2.335.412,40 ETH",
         "description": [
             "Connections: USB 2.0, USB 3.0",
             "Controls: Onboard touchpad, Bluetooth controllers",
@@ -2227,7 +2000,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/motorola-moto-360-2015-3_1024x1024.jpg?v=1491404918",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/motorola-moto-360-2015-4_1024x1024.jpg?v=1491404918"
         ],
-        "price": "8.256.272,59 VND",
+        "price": "8.256.272,59 ETH",
         "description": [
             "Technology: No cellular connectivity",
             "Dimensions: 46 x 46 x 11.4 mm",
@@ -2243,19 +2016,11 @@
         "variants": [
             {
                 "label": "Color",
-                "variants": [
-                    "BLACK LEATHER",
-                    "BLACK METAL",
-                    "ROSE GOLD",
-                    "SILVER"
-                ]
+                "variants": ["BLACK LEATHER", "BLACK METAL", "ROSE GOLD", "SILVER"]
             },
             {
                 "label": "Traps",
-                "variants": [
-                    "42MM",
-                    "46MM"
-                ]
+                "variants": ["42MM", "46MM"]
             }
         ],
         "infomations": {
@@ -2269,7 +2034,7 @@
         "name": "LOGITECH WIRELESS KEYBOARD MK240 NANO",
         "thumb": "https://cdn.shopify.com/s/files/1/1903/4853/products/z6_1024x1024.jpg?v=1491404809",
         "images": [],
-        "price": "574.181,19 VND",
+        "price": "574.181,19 ETH",
         "description": [
             "Dimensions: 139mm x 288mm x 21mm",
             "Weight: 312 g",
@@ -2296,7 +2061,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z2_2ca9a51c-540d-4bbc-8be1-88dc83ccefa1_1024x1024.jpg?v=1491404814"
         ],
-        "price": "424.384,54 VND",
+        "price": "424.384,54 ETH",
         "description": [
             "Technology: USB port or Bluetooth",
             "Dimensions: 61.6 x 100.3 x 1.4 mm",
@@ -2312,11 +2077,7 @@
         "variants": [
             {
                 "label": "Color",
-                "variants": [
-                    "BLACK",
-                    "NAVY BLUE",
-                    "STONE"
-                ]
+                "variants": ["BLACK", "NAVY BLUE", "STONE"]
             }
         ],
         "infomations": {
@@ -2334,7 +2095,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z3_2_1024x1024.jpg?v=1491404907",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/z4_2_1024x1024.jpg?v=1491404907"
         ],
-        "price": "3.183.473,77 VND",
+        "price": "3.183.473,77 ETH",
         "description": [
             "Battery type: Lithium-ion Polymer (22.2Wh)",
             "Music playing time: up to 20h",
@@ -2349,13 +2110,7 @@
         "variants": [
             {
                 "label": "Color",
-                "variants": [
-                    "BLACK",
-                    "BLUE",
-                    "GREY",
-                    "RED",
-                    "TEAL"
-                ]
+                "variants": ["BLACK", "BLUE", "GREY", "RED", "TEAL"]
             }
         ],
         "infomations": {
@@ -2372,7 +2127,7 @@
             "https://cdn.shopify.com/s/files/1/1903/4853/products/Untitled-123_1024x1024.jpg?v=1491404922",
             "https://cdn.shopify.com/s/files/1/1903/4853/products/apple-watch2-edition-42mm2_1024x1024.jpg?v=1491404922"
         ],
-        "price": "8.704.718,95 VND",
+        "price": "8.704.718,95 ETH",
         "description": [
             "Technology: No cellular connectivity",
             "Dimensions: 42.6 x 36.5 x 11.4 mm",
@@ -2388,24 +2143,15 @@
         "variants": [
             {
                 "label": "Type",
-                "variants": [
-                    "EDITION",
-                    "SPORT"
-                ]
+                "variants": ["EDITION", "SPORT"]
             },
             {
                 "label": "Color",
-                "variants": [
-                    "WHITE",
-                    "SPORT BAND"
-                ]
+                "variants": ["WHITE", "SPORT BAND"]
             },
             {
                 "label": "Strap",
-                "variants": [
-                    "42MM",
-                    "38MM"
-                ]
+                "variants": ["42MM", "38MM"]
             }
         ],
         "infomations": {

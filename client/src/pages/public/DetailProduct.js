@@ -239,7 +239,7 @@ const DetailProduct = ({ isQuickView, data, location, dispatch, navigate }) => {
           <div className="flex items-center justify-between">
             <h2 className="text-[30px] font-semibold">{`${formatMoney(
               fotmatPrice(currentProduct.price || product?.price)
-            )} VNĐ`}</h2>
+            )} ETH`}</h2>
             <span className="text-sm text-main">{`In stock: ${product?.quantity}`}</span>
           </div>
           <div className="flex items-center gap-1">
