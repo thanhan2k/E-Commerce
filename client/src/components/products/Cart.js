@@ -61,7 +61,7 @@ const Cart = ({ dispatch, navigate }) => {
                     <span>Subtotal:</span>
                     <span>
                         {formatMoney(currentCart?.reduce((sum, el) => sum + Number(el.price) * el.quantity, 0)) +
-                            ' VND'}
+                            ' ETH'}
                     </span>
                 </div>
                 <span className="text-center text-gray-700 italic text-xs">
