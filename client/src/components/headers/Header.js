@@ -65,7 +65,7 @@ const Header = ({ dispatch }) => {
               {isShowOption && (
                 <div
                   onClick={(e) => e.stopPropagation()}
-                  className="absolute top-full flex-col flex left-[16px] #00000 border min-w-[150px] py-2"
+                  className="absolute top-full flex-col flex left-[16px] bg-white border min-w-[150px] py-2"
                 >
                   <Link
                     className="p-2 w-full hover:bg-sky-100"
