@@ -39,7 +39,7 @@ const OrderItem = ({ dispatch, color, dfQuantity = 1, price, title, thumbnail, p
                 </div>
             </span>
             <span className="col-span-3 w-full h-full flex items-center justify-center text-center">
-                <span className="text-lg">{formatMoney(price * quantity) + ' ETH'}</span>
+                <span className="text-lg">{price * quantity + ' ETH'}</span>
             </span>
         </div>
     );
