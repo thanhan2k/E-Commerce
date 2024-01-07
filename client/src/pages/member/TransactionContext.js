@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { ethers } from 'ethers';
+import { useSelector } from 'react-redux';
+import { apiCreateOrder } from 'apis';
 
 import { contractABI, contractAddress } from '../../ultils/contants';
 
@@ -16,14 +18,23 @@ const createEthereumContract = () => {
 };
 
 export const TransactionsProvider = ({ children }) => {
-    const [formData, setformData] = useState({ addressTo: '', amount: '', keyword: '', message: '' });
+    // const [formData, setformData] = useState({ addressTo: '', amount: '', keyword: '', message: '' });
     const [currentAccount, setCurrentAccount] = useState('');
     const [isLoading, setIsLoading] = useState(false);
     const [transactionCount, setTransactionCount] = useState(localStorage.getItem('transactionCount'));
     const [transactions, setTransactions] = useState([]);
+    const { currentCart, current } = useSelector((state) => state.user);
+    const [isDone, setIsDone] = useState(false);
+
+    const formData = {
+        addressTo: '0xe6b0BAc8F01d5A1b920b444377ec8bf27006BAbd',
+        amount: currentCart?.reduce((sum, el) => +el?.price * el.quantity + sum, 0).toString(),
+        keyword: 'PAYPAL',
+        message: 'test',
+    };
 
     const handleChange = (e, name) => {
-        setformData((prevState) => ({ ...prevState, [name]: e.target.value }));
+        // setformData((prevState) => ({ ...prevState, [name]: e.target.value }));
     };
 
     const getAllTransactions = async () => {
@@ -42,7 +53,7 @@ export const TransactionsProvider = ({ children }) => {
                     amount: parseInt(transaction.amount._hex) / 10 ** 18,
                 }));
 
-                console.log(structuredTransactions);
+                // console.log(structuredTransactions);
 
                 setTransactions(structuredTransactions);
             } else {
@@ -133,10 +144,19 @@ export const TransactionsProvider = ({ children }) => {
                 console.log(`Success - ${transactionHash.hash}`);
                 setIsLoading(false);
 
-                const transactionsCount = await transactionsContract.getTransactionCount();
+                const response = await apiCreateOrder({
+                    products: currentCart,
+                    status: 'Succeed',
+                    orderBy: current?._id,
+                    total: amount,
+                });
 
+                setIsDone(true);
+
+                const transactionsCount = await transactionsContract.getTransactionCount();
                 setTransactionCount(transactionsCount.toNumber());
-                window.location.reload();
+                // window.location.reload();
+                // window.close();
             } else {
                 console.log('No ethereum object');
             }
@@ -163,6 +183,7 @@ export const TransactionsProvider = ({ children }) => {
                 sendTransaction,
                 handleChange,
                 formData,
+                isDone,
             }}
         >
             {children}

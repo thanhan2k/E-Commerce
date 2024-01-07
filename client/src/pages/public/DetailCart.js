@@ -57,9 +57,7 @@ const DetailCart = ({ location, navigate }) => {
             <div className="w-main mx-auto flex flex-col mb-12 justify-center items-end gap-3">
                 <span className="flex items-center gap-8 text-sm">
                     <span>Subtotal:</span>
-                    <span className="text-main font-bold">{`${formatMoney(
-                        currentCart?.reduce((sum, el) => +el?.price * el.quantity + sum, 0),
-                    )} ETH`}</span>
+                    <span className="text-main font-bold">{`${currentCart?.reduce((sum, el) => +el?.price * el.quantity + sum, 0)} ETH`}</span>
                 </span>
                 <span className="text-xs italic">Shipping, taxes, and discounts calculated at checkout</span>
                 <Button handleOnClick={handleSubmit}>Checkout</Button>

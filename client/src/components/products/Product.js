@@ -139,7 +139,7 @@ const Product = ({ productData, isNew, normal, navigate, dispatch, location, pid
                         ))}
                     </span>
                     <span className="line-clamp-1">{productData?.title}</span>
-                    <span>{`${formatMoney(productData?.price)} ETH`}</span>
+                    <span>{`${productData?.price} ETH`}</span>
                 </div>
             </div>
         </div>

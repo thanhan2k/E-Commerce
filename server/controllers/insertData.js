@@ -11,7 +11,7 @@ const fn = async (product) => {
         slug: slugify(product?.name) + Math.round(Math.random() * 100) + '',
         description: product?.description,
         brand: product?.brand,
-        price: Math.round(Number(product?.price?.match(/\d/g).join('')) / 100),
+        price: parseFloat(product?.price?.match(/[\d.,-]+/g)[0].replace(".", "").replace(",", ".")),
         category: product?.category[1],
         quantity: Math.round(Math.random() * 1000),
         sold: Math.round(Math.random() * 100),

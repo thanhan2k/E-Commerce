@@ -44,7 +44,7 @@ const Cart = ({ dispatch, navigate }) => {
                                     <span className="text-sm text-main">{el.title}</span>
                                     <span className="text-[10px]">{el.color}</span>
                                     <span className="text-[10px]">{`Quantity: ${el.quantity}`}</span>
-                                    <span className="text-sm">{formatMoney(el.price) + ' ETH'}</span>
+                                    <span className="text-sm">{el.price + ' ETH'}</span>
                                 </div>
                             </div>
                             <span
@@ -60,7 +60,7 @@ const Cart = ({ dispatch, navigate }) => {
                 <div className="flex items-center justify-between pt-4 border-t">
                     <span>Subtotal:</span>
                     <span>
-                        {formatMoney(currentCart?.reduce((sum, el) => sum + Number(el.price) * el.quantity, 0)) +
+                        {currentCart?.reduce((sum, el) => sum + Number(el.price) * el.quantity, 0) +
                             ' ETH'}
                     </span>
                 </div>
