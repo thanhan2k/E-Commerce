@@ -213,7 +213,7 @@ const DetailProduct = ({ isQuickView, data, location, dispatch, navigate }) => {
                 </div>
                 <div className={clsx('w-2/5 pr-[24px] flex flex-col gap-4', isQuickView && 'w-1/2')}>
                     <div className="flex items-center justify-between">
-                        <h2 className="text-[30px] font-semibold">{`${currentProduct.price || product?.price} ETH`}</h2>
+                        <h2 className="text-[30px] font-semibold">{`${formatMoney(currentProduct.price || product?.price)} ETH`}</h2>
                         <span className="text-sm text-main">{`In stock: ${product?.quantity}`}</span>
                     </div>
                     <div className="flex items-center gap-1">

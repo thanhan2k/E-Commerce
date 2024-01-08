@@ -35,8 +35,8 @@ const TopHeaders = () => {
         [mes],
     );
     return (
-        <div className="h-[38px] w-full bg-main flex items-center justify-center">
-            <div className="w-main flex items-center justify-between text-xs text-white">
+        <div className=" w-full bg-main flex items-center justify-center">
+            <div className="h-[48px] w-main flex items-center justify-between text-sm text-white">
                 <span>ORDER ONLINE OR CALL US (+1800) 000 8808</span>
                 {isLoggedIn && current ? (
                     <div className=" flex gap-4 text-sm items-center">

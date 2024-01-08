@@ -111,7 +111,7 @@ const History = ({ navigate, location }) => {
                   ))}
                 </span>
               </td>
-              <td className="text-center py-2">{el.total + " 💲"}</td>
+              <td className="text-center py-2">{(el.total > 20) ? el.total + " 💲" :  el.total + " ETH"}</td>
               <td className="text-center py-2">{el.status}</td>
               <td className="text-center py-2">
                 {moment(el.createdAt)?.format("DD/MM/YYYY")}
