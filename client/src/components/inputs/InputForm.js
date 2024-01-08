@@ -1,5 +1,5 @@
-import React, { memo } from 'react'
-import clsx from 'clsx'
+import React, { memo } from 'react';
+import clsx from 'clsx';
 
 const InputForm = ({
     label,
@@ -13,11 +13,15 @@ const InputForm = ({
     fullWidth,
     defaultValue,
     style,
-    readOnly
+    readOnly,
 }) => {
     return (
         <div className={clsx('flex flex-col h-[78px] gap-2', style)}>
-            {label && <label className='font-medium' htmlFor={id}>{label + ':'}</label>}
+            {label && (
+                <label className="font-medium" htmlFor={id}>
+                    {label + ':'}
+                </label>
+            )}
             <input
                 type={type}
                 id={id}
@@ -27,10 +31,11 @@ const InputForm = ({
                 className={clsx('form-input my-auto', fullWidth && 'w-full', style)}
                 defaultValue={defaultValue}
                 readOnly={readOnly}
+                step="0.01"
             />
-            {errors[id] && <small className='text-xs text-red-500'>{errors[id]?.message}</small>}
+            {errors[id] && <small className="text-xs text-red-500">{errors[id]?.message}</small>}
         </div>
-    )
-}
+    );
+};
 
-export default memo(InputForm)
+export default memo(InputForm);

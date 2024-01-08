@@ -75,7 +75,7 @@ const Checkout = ({ dispatch, navigate }) => {
                                     <tr className="border" key={el._id}>
                                         <td className="text-left p-2">{el.title}</td>
                                         <td className="text-center p-2">{el.quantity}</td>
-                                        <td className="text-right p-2">{el.price + ' ETH'}</td>
+                                        <td className="text-right p-2">{formatMoney(el.price) + ' ETH'}</td>
                                     </tr>
                                 ))}
                             </tbody>
@@ -83,10 +83,10 @@ const Checkout = ({ dispatch, navigate }) => {
                         <div className="mt-4">
                             <span className="flex items-center gap-8 text-sm mt-4">
                                 <span className="font-medium">Subtotal:</span>
-                                <span className="text-main font-bold">{`${currentCart?.reduce(
+                                <span className="text-main font-bold">{`${formatMoney(currentCart?.reduce(
                                     (sum, el) => +el?.price * el.quantity + sum,
                                     0,
-                                )} ETH`}</span>
+                                ))} ETH`}</span>
                             </span>
                             <span className="flex items-center gap-8 text-sm mt-2">
                                 <span className="font-medium">Address:</span>
@@ -113,7 +113,7 @@ const Checkout = ({ dispatch, navigate }) => {
                                 onClick={handleSubmit}
                                 className="text-white w-full p-3 my-5 hover:bg-[#2546bd] rounded-full cursor-pointer bg-[#2952e3] font-bold"
                             >
-                                {isLoading ? <Loader /> : <span>Paypal</span>}
+                                {isLoading ? <Loader /> : <span>Payment</span>}
                             </button>
                         )}
                     </div>

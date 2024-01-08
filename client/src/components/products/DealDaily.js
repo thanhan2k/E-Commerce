@@ -104,7 +104,7 @@ const DealDaily = ({ dispatch }) => {
                     ))}
                 </span>
                 {/* ${formatMoney(dealDaily?.data?.price)} */}
-                <span>{`0.1 ETH`}</span>
+                <span>{`${formatMoney(dealDaily?.data?.price)} ETH`}</span>
             </div>
             <div className="px-4 mt-8">
                 <div className="flex justify-center gap-2 items-center mb-4">

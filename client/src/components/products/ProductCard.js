@@ -18,7 +18,7 @@ const ProductCard = ({ price, totalRatings, title, image, pid, navigate, categor
                             <span key={index}>{el}</span>
                         ))}
                     </span>
-                    <span>{`${price} ETH`}</span>
+                    <span>{`${formatMoney(price)} ETH`}</span>
                 </div>
             </div>
         </div>
